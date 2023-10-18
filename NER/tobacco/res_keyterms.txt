@@ -1,0 +1,2 @@
+Category (cessation):
+smoking_cessation quitting quit interventions treatment abstinence quit_attempts postrelease attempters utilization 

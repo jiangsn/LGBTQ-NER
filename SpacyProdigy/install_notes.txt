@@ -1,0 +1,8 @@
+https://prodi.gy/docs/install
+
+Install Prodigy from a wheel file
+Wheel installers are basically pre-compiled Python package installers. You can install them like any other Python package by pointing pip install at the local path of a .whl file you downloaded. The easiest way to download the correct and best-matching wheel for your platform and Python version is to unzip the files you downloaded and point pip to the directory using the -f option:
+
+pip install prodigy -f /path/to/wheels
+
+pip install prodigy -f ./linux

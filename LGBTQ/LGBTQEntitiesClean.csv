@@ -1,0 +1,182 @@
+MajorCategory,SubCategory,NamedEntityClean,NamedEntity,FrequencyByAbstract
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Quitting Behavior,"Abstinence, Cessation, Quit, Smoke Cessation",24
+,,Quit Attempt,Quit Attempt,4
+,,Quit Rate,Quit Rate,3
+,,Relapse,Relapse,2
+,,Advice to Quit,Advice to Quit,1
+,"Exposure to Tobacco-Related or Anti-Tobacco Content, or Exposure to Secondhand/Thirdhand Smoking",Exposure,Exposure,5
+,Health/Disease,Cancer,"Cancer, Lung Cancer",4
+,,Cardiovascular Disease,cardiovascular disease,1
+,,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,1
+,,Heart Disease,Heart Disease,1
+,,Mortality,Mortality,2
+,Perception/Belief,Appeal,Appeal,1
+,,Risk,Risk,14
+,,Addiction,"Addiction, Tobacco Dependence",2
+,Tobacco Use Prevalence,Prevalence,"Prevalence, Smoke Prevalence, Overall Prevalence",20
+,,Rate,Rate,9
+,Time Period,1960,1960,1
+,,2000,2000,1
+,,2001,2001,1
+,,2005,2005,1
+,,2009,2009,1
+,,2010,2010,1
+,,2013,2013,4
+,,2014,2014,3
+,,2015,2015,1
+,,2017,2017,3
+,,2018,2018,2
+,,2019,2019,2
+,,2000–2001,2000–2001,1
+,,2005–2050,2005–2050,1
+,,2009–2010,2009–2010,1
+,,2011–2014,2011–2014,1
+,,2012–2013,2012–2013,1
+,,2013 2014,2013 2014,2
+,,2013–14,2013–14,1
+,,2013–2016,2013–2016,1
+,,2017–2018,2017–2018,1
+,,7 Day,7 Day,2
+,,30 Day,30 Day,8
+,,8 Weeks,8 Weeks,1
+,,Past Month,Past Month,1
+,,1 Month,1 Month,1
+,,3 Month,3 Month,2
+,,3–6 Months,3–6 Months,1
+,,6 Month,6 Month,2
+,,12 Month,12 Month,3
+,,1 Year,1 Year,2
+,,1.34 Years,1.34 Years,1
+,,3.66 Years,3.66 Years,1
+,Tobacco Use Status,Cigarette Smoking,"Cigarette Smoking, Smoking Behavior, Current Smoking, Daily Smoking, Smoking Rate, Smoking Status, Former Smoker",28
+,,E-cigarette Use,E Cigarette Use,2
+,,Never Smokers,Never Smokers,1
+,,Current Use of Any Tobacco Product,Current Use,3
+,,Initiation of Any Tobacco Products,Initiation,5
+,,Substance Use,"Tobacco Use, Tobacco Smoking, Substance Use",16
+Population Characteristics,Age Groups,Age,Age,13
+,,12th Grade,12th Grade,1
+,,High School,High School,2
+,,Student,Student,3
+,,≥16 Years,≥16 Years,1
+,,18 Year,18 Year,2
+,,26 Years,26 Years,1
+,,18–25,18–25,1
+,,18–29,18–29,1
+,,Adolescent,"Adolescent, Youth",7
+,,Young Adult,Young Adult,11
+,,Adolecents and Young Adults (AYA) ,Young People,2
+,,Adult,Adult,14
+,Sex,Female,Female,1
+,,Male,Male,4
+,,Woman,Woman,8
+,,Man,Man,8
+,,Sex,Sex,5
+,Sexual and Gender Minority Populations,Gender,Gender,8
+,,Intersex,Intersex,1
+,,Transgender Individuals,Transgender,13
+,,Cisgender Individuals,Cisgender,2
+,,Female-to-Male,Female-to-Male,1
+,,Male-to-Female,Male-to-Female,1
+,,Gender Minority Populations,Gender Minority,5
+,,Sexual Orientation,"Sexual Orientation, Sexuality",10
+,,Bisexual,Bisexual,21
+,,Lesbian,Lesbian,19
+,,Gay,Gay,19
+,,Same-Sex Relationship,Same Sex,4
+,,Heterosexual/Straight,"Heterosexual, Straight",14
+,,Sexual Minority Populations,"Sexual Minority, LGB",8
+,,Queer,Queer,2
+,,Questioning,Question,2
+,,Sexual and Gender Minority Populations,"GLBT, LGBT, LGBTI, LGBTQ",10
+,Racial and Ethnic Minority Groups,African American,African American,1
+,,Black People,Blacks,1
+,,Asian American,Asian American,1
+,,White Individuals,"White, Non-Hispanic White",3
+,,Hispanic/Latino Populations,"Hispanic, Latino, Latinos",4
+,,Non-Hispanic Populations,Non-Hispanic,1
+,,Minority Groups,Minority,8
+,,English,English,1
+,,Ethnicity,"Ethnic, Ethnicity",2
+,,Race/Ethnicity,"Race Ethnicity, Racial Ethnic",7
+,Socioeconomic Status,Demographics,Demographic,8
+,,Socioeconomic Status,Socioeconomic Status,2
+,,Low-income Populations,Low Income,2
+,,People Living in Poverty,Poverty,2
+,,Socioeconomically Disadvantaged Individuals,Socioeconomically Disadvantaged,1
+,,Education Attainment,Some College,1
+,,Marital Status,Married,1
+,,Sociodemographic Factors,"Sociodemographic, Sociodemographic Characteristic",9
+Geographic Locations,Countries/States/Provinces/Cities,Australia,Australia,2
+,,Canada,Canada,1
+,,Canada-Province ,Ottawa,1
+,,Canada-City ,Toronto,1
+,,New Zealand,New Zealand,1
+,,United Kingdom,"England, UK",2
+,,United States (US),"United States, U.S., U.S.3, USA",13
+,,US-State,"California, Missouri, Texas, Wisconsin",5
+,,US-City,"Chicago, Houston, Las Vegas, San Francisco",4
+Method and Inference,Data,Behavioral Risk Factor Surveillance System (BRFSS),"Behavioral Risk Factor Surveillance System, BRFSS",3
+,,Population Assessment of Tobacco and Health (PATH) Study,"Population Assessment of Tobacco And Health, PATH",6
+,,National Adult Tobacco Survey (NATS),National Adult Tobacco Survey,2
+,,National Epidemiologic Survey on Alcohol and Related Conditions (NESARC),National Epidemiologic Survey on Alcohol and Related Conditions,1
+,Methodology,Baseline,"At Baseline, Baseline",5
+,,Follow-Up,"At Follow-up, Follow-up",2
+,,Clinical Trial,Clinical Trial,1
+,,Randomization,Randomize,3
+,,Experimental Research,"Treatment Group, Control Group, Randomized Controlled Trial",5
+,,Data Extraction,Data Extraction,1
+,,Synthesis,Synthesis,1
+,,Systematic Review,"Youth.mp, Qualitative.mp, Systematic Review, PubMed",5
+,,Qualitative Research,"Qualitative, Focus Groups, Comparative Analysis",3
+,,Logistic Regression,Logistic Regression,10
+,,Confounder,Confound,2
+,,Longitudinal Study,"Longitudinal, Longitudinal Study",3
+,,Nationally Representative,Nationally Representative,9
+,,Survey,"Survey, Online Survey, Cross Sectional Survey, Questionnaires, Respondent",25
+,,Self-Report,Self Report,5
+,,Sample,Sample,10
+,Statistics,Frequency/Count,"Frequency, Percent, 1000, 1092, 2050, 2210, 2384, N=10, N=19, N=3039, N=3368",12
+,,Mean/Median,"Median, Averages",2
+,,Probability,"Probability, The Odds of",2
+,,Statistical Significance,Statistically Significant,1
+,,Association,Association,8
+,,Confidence Interval (CI),"95% Confidence Interval, 95% CI, CI",19
+,,Odds Ratio,"Adjust Odd Ratio, AOR, Odd Ratio",10
+Policy,Marketing,Advertisement,"Advertisement, Advertising, Tobacco Advertising",7
+,,Brand,Brand,3
+,,Denormalization,Denormalizing,1
+,,Retail Sales,Retailer,1
+,,Social Media,Social Media,1
+,Law/Policy/Regulation,Monitoring and Surveillance,Monitor,1
+,,Policy/Regulation,"Policy, Regulations",3
+,,Smoke-Free Air Law,Smoke-free,1
+,,Restriction,Restrictions,1
+,,Enforcement,Enforcement,1
+,,Tobacco Control,"Tobacco Epidemic, Tobacco Control",7
+,,Cessation Strategies,Cessation Strategies,1
+,Regulatory Body,US Food and Drug Administration (FDA),"FDA, Food and Drug Association",2
+,Treatment,Counseling,Counseling,2
+,,Intervention,Intervention,16
+,,Medication,Medications,1
+,,Cessation Treatment,"Smoking Cessation Treatment, Tobacco Treatment",2
+,,Nicotine Replacement Therapy,Nicotine Replacement Therapy,2
+,,Quitline,Quitlines,1
+Tobacco Products,Combustible Tobacco Products,Cigar,Cigar,5
+,,Cigarette,Cigarette,15
+,,Combustible Tobacco,Combustible Tobacco,1
+,,Hookah,Hookah,3
+,,Tobacco Product,Tobacco Product,7
+,Non-Combustible Tobacco Products,E-cigarette,"E-Cigarette, Electronic Nicotine Delivery Systems, ENDS",9
+,,Smokeless Tobacco,"Smokeless, Smokeless Tobacco",5
+,,Snus,Snus,1
+Relation Statement,Relation Terms,Association,"Associate with, Association Between, Association of, Factor Associate with, Predictor of, Predictor, Relate to, Relationship Between",48
+,,Correlation,"Correlate, Correlate of",7
+,,Comparison,"Relative to, Significantly High, Higher Than, More, More Likely to, More Than, Less, Less Likely to, Less Than, No Differences",45
+Tobacco Characteristics,Chemical,Nicotine,Nicotine,7
+,,Dose,Dose,1
+,,Additive,Additive,2
+,Flavor,Alcohol,Alcohol,5
+,,Menthol,Menthol,1
+,,Non-menthol,Non-menthol,1
+,,Flavor,Flavor,1

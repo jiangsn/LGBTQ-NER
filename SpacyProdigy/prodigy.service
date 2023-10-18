@@ -1,0 +1,11 @@
+[Unit]
+Description=start npm service for Spacy Prodigy use
+
+[Service]
+Type=simple
+WorkingDirectory=/home/jian/mengling/TobaccoResearch/SpacyProdigy
+ExecStart=bash /home/jian/mengling/TobaccoResearch/SpacyProdigy/prodigy.sh
+ExecStop=/bin/kill -s TERM $MAINPID
+
+[Install]
+WantedBy=multi-user.target

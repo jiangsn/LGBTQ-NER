@@ -1,0 +1,182 @@
+MajorCategory,SubCategory,NamedEntityClean,NamedEntity,FrequencyByAbstract,NewFrequency
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Quitting Behavior,"Abstinence, Cessation, Quit, Smoke Cessation",24,16
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Quit Attempt,Quit Attempt,4,4
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Quit Rate,Quit Rate,3,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Relapse,Relapse,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Cessation,Advice to Quit,Advice to Quit,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes","Exposure to Tobacco-Related or Anti-Tobacco Content, or Exposure to Secondhand/Thirdhand Smoking",Exposure,Exposure,5,5
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Health/Disease,Cancer,"Cancer, Lung Cancer",4,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Health/Disease,Cardiovascular Disease,cardiovascular disease,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Health/Disease,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Health/Disease,Heart Disease,Heart Disease,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Health/Disease,Mortality,Mortality,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Perception/Belief,Appeal,Appeal,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Perception/Belief,Risk,Risk,14,14
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Perception/Belief,Addiction,"Addiction, Tobacco Dependence",2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Prevalence,Prevalence,"Prevalence, Smoke Prevalence, Overall Prevalence",20,16
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Prevalence,Rate,Rate,9,9
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,1960,1960,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2000,2000,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2001,2001,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2005,2005,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2009,2009,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2010,2010,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2013,2013,4,4
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2014,2014,3,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2015,2015,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2017,2017,3,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2018,2018,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2019,2019,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2000-2001,2000-2001,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2005-2050,2005-2050,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2009-2010,2009-2010,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2011-2014,2011-2014,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2012-2013,2012-2013,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2013 2014,2013 2014,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2013-14,2013-14,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2013-2016,2013-2016,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,2017-2018,2017-2018,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,7 Day,7 Day,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,30 Day,30 Day,8,8
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,8 Weeks,8 Weeks,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,Past Month,Past Month,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,1 Month,1 Month,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,3 Month,3 Month,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,3-6 Months,3-6 Months,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,6 Month,6 Month,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,12 Month,12 Month,3,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,1 Year,1 Year,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,1.34 Years,1.34 Years,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Time Period,3.66 Years,3.66 Years,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,Cigarette Smoking,"Cigarette Smoking, Smoking Behavior, Current Smoking, Daily Smoking, Smoking Rate, Smoking Status, Former Smoker",28,17
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,E-cigarette Use,E Cigarette Use,2,2
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,Never Smokers,Never Smokers,1,1
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,Current Use of Any Tobacco Product,Current Use,3,3
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,Initiation of Any Tobacco Products,Initiation,5,5
+"Tobacco Use Behaviors, Prevalence, and Outcomes",Tobacco Use Status,Substance Use,"Tobacco Use, Tobacco Smoking, Substance Use",16,16
+Population Characteristics,Age Groups,Age,Age,13,13
+Population Characteristics,Age Groups,12th Grade,12th Grade,1,1
+Population Characteristics,Age Groups,High School,High School,2,2
+Population Characteristics,Age Groups,Student,Student,3,3
+Population Characteristics,Age Groups,≥16 Years,≥16 Years,1,1
+Population Characteristics,Age Groups,18 Year,18 Year,2,2
+Population Characteristics,Age Groups,26 Years,26 Years,1,1
+Population Characteristics,Age Groups,18-25,18-25,1,1
+Population Characteristics,Age Groups,18-29,18-29,1,1
+Population Characteristics,Age Groups,Adolescent,"Adolescent, Youth",7,5
+Population Characteristics,Age Groups,Young Adult,Young Adult,11,11
+Population Characteristics,Age Groups,Adolecents and Young Adults (AYA) ,Young People,2,2
+Population Characteristics,Age Groups,Adult,Adult,14,14
+Population Characteristics,Sex,Female,Female,1,1
+Population Characteristics,Sex,Male,Male,4,4
+Population Characteristics,Sex,Woman,Woman,8,8
+Population Characteristics,Sex,Man,Man,8,8
+Population Characteristics,Sex,Sex,Sex,5,5
+Population Characteristics,Sexual and Gender Minority Populations,Gender,Gender,8,8
+Population Characteristics,Sexual and Gender Minority Populations,Intersex,Intersex,1,1
+Population Characteristics,Sexual and Gender Minority Populations,Transgender Individuals,Transgender,13,13
+Population Characteristics,Sexual and Gender Minority Populations,Cisgender Individuals,Cisgender,2,2
+Population Characteristics,Sexual and Gender Minority Populations,Female-to-Male,Female-to-Male,1,1
+Population Characteristics,Sexual and Gender Minority Populations,Male-to-Female,Male-to-Female,1,1
+Population Characteristics,Sexual and Gender Minority Populations,Gender Minority Populations,Gender Minority,5,5
+Population Characteristics,Sexual and Gender Minority Populations,Sexual Orientation,"Sexual Orientation, Sexuality",10,10
+Population Characteristics,Sexual and Gender Minority Populations,Bisexual,Bisexual,21,21
+Population Characteristics,Sexual and Gender Minority Populations,Lesbian,Lesbian,19,19
+Population Characteristics,Sexual and Gender Minority Populations,Gay,Gay,19,19
+Population Characteristics,Sexual and Gender Minority Populations,Same-Sex Relationship,Same Sex,4,2
+Population Characteristics,Sexual and Gender Minority Populations,Heterosexual/Straight,"Heterosexual, Straight",14,13
+Population Characteristics,Sexual and Gender Minority Populations,Sexual Minority Populations,"Sexual Minority, LGB",8,8
+Population Characteristics,Sexual and Gender Minority Populations,Queer,Queer,2,2
+Population Characteristics,Sexual and Gender Minority Populations,Questioning,Question,2,2
+Population Characteristics,Sexual and Gender Minority Populations,Sexual and Gender Minority Populations,"GLBT, LGBT, LGBTI, LGBTQ",10,9
+Population Characteristics,Racial and Ethnic Minority Groups,African American,African American,1,1
+Population Characteristics,Racial and Ethnic Minority Groups,Black People,Blacks,1,1
+Population Characteristics,Racial and Ethnic Minority Groups,Asian American,Asian American,1,1
+Population Characteristics,Racial and Ethnic Minority Groups,White Individuals,"White, Non-Hispanic White",3,3
+Population Characteristics,Racial and Ethnic Minority Groups,Hispanic/Latino Populations,"Hispanic, Latino, Latinos",4,3
+Population Characteristics,Racial and Ethnic Minority Groups,Non-Hispanic Populations,Non-Hispanic,1,1
+Population Characteristics,Racial and Ethnic Minority Groups,Minority Groups,Minority,8,8
+Population Characteristics,Racial and Ethnic Minority Groups,English,English,1,1
+Population Characteristics,Racial and Ethnic Minority Groups,Ethnicity,"Ethnic, Ethnicity",2,2
+Population Characteristics,Racial and Ethnic Minority Groups,Race/Ethnicity,"Race Ethnicity, Racial Ethnic",7,6
+Population Characteristics,Socioeconomic Status,Demographics,Demographic,8,8
+Population Characteristics,Socioeconomic Status,Socioeconomic Status,Socioeconomic Status,2,2
+Population Characteristics,Socioeconomic Status,Low-income Populations,Low Income,2,2
+Population Characteristics,Socioeconomic Status,People Living in Poverty,Poverty,2,2
+Population Characteristics,Socioeconomic Status,Socioeconomically Disadvantaged Individuals,Socioeconomically Disadvantaged,1,1
+Population Characteristics,Socioeconomic Status,Education Attainment,Some College,1,1
+Population Characteristics,Socioeconomic Status,Marital Status,Married,1,1
+Population Characteristics,Socioeconomic Status,Sociodemographic Factors,"Sociodemographic, Sociodemographic Characteristic",9,8
+Geographic Locations,Countries/States/Provinces/Cities,Australia,Australia,2,2
+Geographic Locations,Countries/States/Provinces/Cities,Canada,Canada,1,1
+Geographic Locations,Countries/States/Provinces/Cities,Canada-Province ,Ottawa,1,1
+Geographic Locations,Countries/States/Provinces/Cities,Canada-City ,Toronto,1,1
+Geographic Locations,Countries/States/Provinces/Cities,New Zealand,New Zealand,1,1
+Geographic Locations,Countries/States/Provinces/Cities,United Kingdom,"England, UK",2,2
+Geographic Locations,Countries/States/Provinces/Cities,United States (US),"United States, U.S., U.S.3, USA",13,12
+Geographic Locations,Countries/States/Provinces/Cities,US-State,"California, Missouri, Texas, Wisconsin",5,5
+Geographic Locations,Countries/States/Provinces/Cities,US-City,"Chicago, Houston, Las Vegas, San Francisco",4,4
+Method and Inference,Data,Behavioral Risk Factor Surveillance System (BRFSS),"Behavioral Risk Factor Surveillance System, BRFSS",3,2
+Method and Inference,Data,Population Assessment of Tobacco and Health (PATH) Study,"Population Assessment of Tobacco And Health, PATH",6,3
+Method and Inference,Data,National Adult Tobacco Survey (NATS),National Adult Tobacco Survey,2,2
+Method and Inference,Data,National Epidemiologic Survey on Alcohol and Related Conditions (NESARC),National Epidemiologic Survey on Alcohol and Related Conditions,1,1
+Method and Inference,Methodology,Baseline,"At Baseline, Baseline",5,4
+Method and Inference,Methodology,Follow-Up,"At Follow-up, Follow-up",2,2
+Method and Inference,Methodology,Clinical Trial,Clinical Trial,1,1
+Method and Inference,Methodology,Randomization,Randomize,3,3
+Method and Inference,Methodology,Experimental Research,"Treatment Group, Control Group, Randomized Controlled Trial",5,4
+Method and Inference,Methodology,Data Extraction,Data Extraction,1,1
+Method and Inference,Methodology,Synthesis,Synthesis,1,1
+Method and Inference,Methodology,Systematic Review,"Youth.mp, Qualitative.mp, Systematic Review, PubMed",5,2
+Method and Inference,Methodology,Qualitative Research,"Qualitative, Focus Groups, Comparative Analysis",3,3
+Method and Inference,Methodology,Logistic Regression,Logistic Regression,10,10
+Method and Inference,Methodology,Confounder,Confound,2,2
+Method and Inference,Methodology,Longitudinal Study,"Longitudinal, Longitudinal Study",3,3
+Method and Inference,Methodology,Nationally Representative,Nationally Representative,9,9
+Method and Inference,Methodology,Survey,"Survey, Online Survey, Cross Sectional Survey, Questionnaires, Respondent",25,18
+Method and Inference,Methodology,Self-Report,Self Report,5,5
+Method and Inference,Methodology,Sample,Sample,10,10
+Method and Inference,Statistics,Frequency/Count,"Frequency, Percent, 1000, 1092, 2050, 2210, 2384, N=10, N=19, N=3039, N=3368",12,9
+Method and Inference,Statistics,Mean/Median,"Median, Averages",2,2
+Method and Inference,Statistics,Probability,"Probability, The Odds of",2,2
+Method and Inference,Statistics,Statistical Significance,Statistically Significant,1,1
+Method and Inference,Statistics,Association,Association,8,8
+Method and Inference,Statistics,Confidence Interval (CI),"95% Confidence Interval, 95% CI, CI",19,9
+Method and Inference,Statistics,Odds Ratio,"Adjust Odd Ratio, AOR, Odd Ratio",10,8
+Policy,Marketing,Advertisement,"Advertisement, Advertising, Tobacco Advertising",7,4
+Policy,Marketing,Brand,Brand,3,3
+Policy,Marketing,Denormalization,Denormalizing,1,1
+Policy,Marketing,Retail Sales,Retailer,1,1
+Policy,Marketing,Social Media,Social Media,1,1
+Policy,Law/Policy/Regulation,Monitoring and Surveillance,Monitor,1,1
+Policy,Law/Policy/Regulation,Policy/Regulation,"Policy, Regulations",3,3
+Policy,Law/Policy/Regulation,Smoke-Free Air Law,Smoke-free,1,1
+Policy,Law/Policy/Regulation,Restriction,Restrictions,1,1
+Policy,Law/Policy/Regulation,Enforcement,Enforcement,1,1
+Policy,Law/Policy/Regulation,Tobacco Control,"Tobacco Epidemic, Tobacco Control",7,6
+Policy,Law/Policy/Regulation,Cessation Strategies,Cessation Strategies,1,1
+Policy,Regulatory Body,US Food and Drug Administration (FDA),"FDA, Food and Drug Association",2,2
+Policy,Treatment,Counseling,Counseling,2,2
+Policy,Treatment,Intervention,Intervention,16,16
+Policy,Treatment,Medication,Medications,1,1
+Policy,Treatment,Cessation Treatment,"Smoking Cessation Treatment, Tobacco Treatment",2,2
+Policy,Treatment,Nicotine Replacement Therapy,Nicotine Replacement Therapy,2,2
+Policy,Treatment,Quitline,Quitlines,1,1
+Tobacco Products,Combustible Tobacco Products,Cigar,Cigar,5,5
+Tobacco Products,Combustible Tobacco Products,Cigarette,Cigarette,15,15
+Tobacco Products,Combustible Tobacco Products,Combustible Tobacco,Combustible Tobacco,1,1
+Tobacco Products,Combustible Tobacco Products,Hookah,Hookah,3,3
+Tobacco Products,Combustible Tobacco Products,Tobacco Product,Tobacco Product,7,7
+Tobacco Products,Non-Combustible Tobacco Products,E-cigarette,"E-Cigarette, Electronic Nicotine Delivery Systems, ENDS",9,8
+Tobacco Products,Non-Combustible Tobacco Products,Smokeless Tobacco,"Smokeless, Smokeless Tobacco",5,4
+Tobacco Products,Non-Combustible Tobacco Products,Snus,Snus,1,1
+Relation Statement,Relation Terms,Association,"Associate with, Association Between, Association of, Factor Associate with, Predictor of, Predictor, Relate to, Relationship Between",48,23
+Relation Statement,Relation Terms,Correlation,"Correlate, Correlate of",7,6
+Relation Statement,Relation Terms,Comparison,"Relative to, Significantly High, Higher Than, More, More Likely to, More Than, Less, Less Likely to, Less Than, No Differences",45,26
+Tobacco Characteristics,Chemical,Nicotine,Nicotine,7,7
+Tobacco Characteristics,Chemical,Dose,Dose,1,1
+Tobacco Characteristics,Chemical,Additive,Additive,2,2
+Tobacco Characteristics,Flavor,Alcohol,Alcohol,5,5
+Tobacco Characteristics,Flavor,Menthol,Menthol,1,1
+Tobacco Characteristics,Flavor,Non-menthol,Non-menthol,1,1
+Tobacco Characteristics,Flavor,Flavor,Flavor,1,1
